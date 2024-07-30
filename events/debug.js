@@ -1,0 +1,1 @@
+module.exports.run = async (client, data) => console.log(`[DEBUG] ` + data)
